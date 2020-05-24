@@ -39,5 +39,13 @@ now check __http://127.0.0.1:4507/__
 ```
 deno install --allow-read --allow-net https://deno.land/std/http/file_server.ts
 ```
+now go to __C:\Users\Shayon\.deno\bin__ and run file server
+
+**Run a local file**
+```
+deno run Hello.ts
+```
+
+
 
 
