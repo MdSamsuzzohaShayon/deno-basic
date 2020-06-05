@@ -1,0 +1,3 @@
+[submodule "deno-basic"]
+	path = deno-basic
+	url = https://github.com/MdSamsuzzohaShayon/deno-basic.git
